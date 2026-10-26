@@ -1,1 +1,1 @@
-﻿Console.WriteLine("This is a temporary message");
+﻿Console.WriteLine("Git diff practice");
